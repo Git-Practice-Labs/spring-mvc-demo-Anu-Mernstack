@@ -1,4 +1,4 @@
-Step-by-Step: Spring Boot MVC using Eclipse + Maven
+Step-by-Step: Spring  MVC using Eclipse + Maven
 ________________________________________
  
  STEP 1: Create a Maven Project
